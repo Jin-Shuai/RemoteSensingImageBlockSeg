@@ -1,0 +1,2 @@
+# RemoteSensingImageBlockSeg
+利用飞桨PaddleSeg进行遥感影像地块分割
