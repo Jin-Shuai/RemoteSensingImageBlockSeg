@@ -18,5 +18,5 @@
 ```
 ## 使用方式
 > 如何快速上手这个项目：
-在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/projectdetail/2805230?contributionType=1)  
+在AI Studio上[运行本项目]( https://aistudio.baidu.com/aistudio/projectdetail/2805230?contributionType=1 )  
 
